@@ -1,0 +1,10 @@
+name: Afk
+version: '${project.version}'
+main: me.saeko.afk.Afk
+api-version: 1.17
+commands:
+  afk:
+    description: Mom took me to get McDonalds and I didn't log off
+    usage: /<command>
+    aliases:
+      -AwayFromKeyboard
